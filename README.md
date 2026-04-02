@@ -6,4 +6,4 @@ Hello my name is Omar and I'm majoring in Computer Science. I'm open to any job 
 
 ## UX Journal
 
-- [My First UX Journal Entry](j01.html)
+- [My First UX Journal Entry](https://github.com/ChicoState/ux-oerivas-star/blob/main/j01.md)
